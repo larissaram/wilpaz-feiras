@@ -1,12 +1,28 @@
-# React + Vite
+# 🌽 WilPaz - Gerenciamento de Feiras
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **WilPaz**, um sistema simples e funcional para ajudar no gerenciamento de feiras livres!  
+Aqui você pode cadastrar produtos, acompanhar o clima da cidade, editar seu perfil de usuário e muito mais.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Funcionalidades
 
-## Expanding the ESLint configuration
+- ✅ Tela de **Login** e **Cadastro**
+- 👤 Tela para **alterar dados do usuário** (Apelido, Email, Data de Nascimento, Senha)
+- 📦 Tela para **cadastro de produtos** (Nome, Descrição, Unidade, Quantidade, Data, Ativo, Valor)
+- 📋 Tela para **listar e filtrar produtos**
+- ✏️ Tela para **editar produtos**
+- 🌤️ Tela para **consultar o clima** na cidade de Guarapuava
+- 🏠 Tela Home com informações da feira
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 💻 Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router DOM](https://reactrouter.com/en/main)
+- API de Clima (ex: OpenWeatherMap)
+
+---
