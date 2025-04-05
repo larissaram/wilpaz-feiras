@@ -23,6 +23,5 @@ Aqui você pode cadastrar produtos, acompanhar o clima da cidade, editar seu per
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React Router DOM](https://reactrouter.com/en/main)
-- API de Clima (ex: OpenWeatherMap)
 
 ---
